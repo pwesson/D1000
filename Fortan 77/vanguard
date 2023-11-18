@@ -1,0 +1,39 @@
+d1001 Space Game
+Number of Houses
+7
+#1 Lord  [Swarmer,Capsule,Skirmisher,Tug,Carrier]
+100
+    0    0    0    0    0
+    0    0    0    0    0
+    0    0    0    0    0
+#2 Star Eagles [Capsule,Interceptor,Battleship,Tug,Death_Star]
+100
+    0   13    0    7    2
+    0    0    0    0    0
+    0    0    0    0    0 
+#3 Ars Magica [ Interceptor,Capsule,Cruiser,Scout,Death_Star]
+100
+   20    0    0    0    0
+    0    2    0    0    0
+   28    0    5    5    0
+#4 Psychopaths [Swarmer,Capsule,Transport,Cruiser,Interceptor]
+100
+    0    0    0    0    0
+    0    0    0    0    0
+    0    0    0    0    0
+#5 Deverry [ Cullyn,Transport,Swarmer,Fighter,Galrion]
+100
+    0    0    0    0    0
+    0    0    0    0    0
+    0    0    0    0    0
+#6 Kassander [ System Dread,Leviathan,Skirmisher,Monitor,Dreadnought]
+100
+    0    0    0    0    0
+    0    0    0    0    0
+    0    0    0    0    0
+#6 Mustelid [ Ferret,Transport,Weasel,Stoat,Martin]
+0
+    0    1    0    0    0
+    0    0    0    0    0
+    0    0    0    0    0
+
